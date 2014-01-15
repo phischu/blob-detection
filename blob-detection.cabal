@@ -22,6 +22,8 @@ executable blob-detection
   build-depends:       base,
                        JuicyPixels-repa,
                        JuicyPixels,
-                       repa
+                       repa,
+                       ad,
+                       mtl
   -- hs-source-dirs:      
   default-language:    Haskell2010
